@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Other Resources
 nav_order: 2
 ---
 
