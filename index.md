@@ -1,5 +1,9 @@
-# BigBatDatabase
+---
+layout: home
+title: Home
+nav_order: 1
+---
 
-Welcome to BigBatDatabase.
+# BigBatDatabase
 
 A collaborative initiative to compile, standardize, and share bat trait data.
