@@ -1,0 +1,10 @@
+title: BigBatDatabase
+description: A collaborative database for bat trait data
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+url: "https://bigbatdatabase.org"
+
+search_enabled: true
