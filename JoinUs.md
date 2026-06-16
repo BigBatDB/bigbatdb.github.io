@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Join Us
+title: Join Us & Find Other Experts
 nav_order: 3
 ---
 
