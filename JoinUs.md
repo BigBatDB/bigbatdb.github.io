@@ -4,11 +4,11 @@ title: Join Us
 nav_order: 3
 ---
 
-# Join us
+# **Join us**
 
 BigBatDatabase is a community-driven initiative to compile, standardize, and share bat trait data for research, education, and conservation. We welcome researchers, students, collection managers, and other contributors interested in bat biodiversity and data synthesis.
 
-If you would like to join our Slack community, please contact us at [bigbatdatabase@gmail.com](mailto:bigbatdatabase@gmail.com) and request an invitation.
+**If you would like to join our Slack community, please contact us at [bigbatdatabase@gmail.com](mailto:bigbatdatabase@gmail.com) and request an invitation.**
 
 To help us process your request, please briefly introduce yourself and provide a link to a publication, professional profile, or other online resource that allows us to verify your identity.
 
