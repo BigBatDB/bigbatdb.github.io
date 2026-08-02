@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Other Resources
-nav_order: 2
+title: About
+permalink: /about/
 ---
 
-# Other Databases
+# The Team
 
 Add info/links.
