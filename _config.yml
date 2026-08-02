@@ -15,3 +15,5 @@ header_pages:
     title: Other Resources
   - page: JoinUs.md
     title: Join Us & Find Other Experts
+  - page: about.md
+    title: The Team
