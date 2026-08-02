@@ -1,6 +1,5 @@
 ---
 layout: default
-banner: /assets/home-banner.jpg
 ---
 
 ## The Project
