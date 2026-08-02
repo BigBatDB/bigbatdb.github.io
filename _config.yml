@@ -1,12 +1,15 @@
 title: BigBatDB: The Big Bat Database Project
 description: A collaborative database for bat trait data
 email: bigbatbatabase@gmail.com
-
-remote_theme: just-the-docs/just-the-docs
-
-plugins:
-  - jekyll-remote-theme
-
 url: "https://bigbatdatabase.org"
+markdown: kramdown
+theme: minima
+header_pages:
+  - page: index.md
+    title: About
+  - page: about.md
+    title: Other Resources
+  - page: JoinUs.md
+    title: Join Us & Find Other Experts
 
 search_enabled: true
