@@ -4,7 +4,7 @@ layout: default
 
 ## The Project
 
-⚠️ This website is under construction; if you are here, welcome! We want to hear from you!⚠️
+**⚠️ This website is under construction; if you are here, welcome! We want to hear from you!⚠️**
 
 BigBatDatabase is a community-driven initiative to compile, standardize, and share bat trait data for research, education, and conservation.
 
