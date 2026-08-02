@@ -1,9 +1,13 @@
-title: BigBatDB: The Big Bat Database Project
-description: A collaborative database for bat trait data
+title: "BigBatDB: The Big Bat Database Project"
+description: "A collaborative database for bat trait data"
 email: bigbatdatabase@gmail.com
+
 url: "https://bigbatdatabase.org"
+baseurl: ""
+
 markdown: kramdown
 theme: minima
+
 header_pages:
   - page: index.md
     title: About
@@ -11,5 +15,3 @@ header_pages:
     title: Other Resources
   - page: JoinUs.md
     title: Join Us & Find Other Experts
-
-search_enabled: false
