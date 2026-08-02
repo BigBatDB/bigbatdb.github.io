@@ -2,9 +2,6 @@
 layout: default
 title: "Join Us & Find Other Experts"
 permalink: /join/
-banner: /assets/join-banner.jpg
-banner_alt: "Bat researchers collaborating through BigBatDatabase"
-banner-text: "Join Our Community"
 ---
 
 ## Join BigBatDatabase
