@@ -11,7 +11,7 @@ theme: minima
 header_pages:
   - page: index.md
     title: About
-  - page: about.md
+  - page: /resources.md
     title: Other Resources
   - page: JoinUs.md
     title: Join Us & Find Other Experts
