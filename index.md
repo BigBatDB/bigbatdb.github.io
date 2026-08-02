@@ -1,8 +1,6 @@
 ---
 layout: default
 banner: /assets/home-banner.jpg
-banner_alt: Bat image the BigBatDatabase project
-banner-subtext: A collaborative initiative to compile, standardize, and share bat trait data.
 ---
 
 ## The Project
