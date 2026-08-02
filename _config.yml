@@ -12,4 +12,4 @@ header_pages:
   - page: JoinUs.md
     title: Join Us & Find Other Experts
 
-search_enabled: true
+search_enabled: false
