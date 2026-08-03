@@ -10,7 +10,7 @@ theme: minima
 
 header_pages:
   - page: index.md
-    title: About
+    title: Home
   - page: resources.md
     title: Other Resources
   - page: JoinUs.md
